@@ -194,25 +194,25 @@
 		<defName>Bullet_18mmSmart_Incendiary</defName>
 		<label>18mm Smart rocket (Incendiary)</label>
 		<projectile Class="CombatExtended.ProjectilePropertiesCE">
-    		<damageDef>PrometheumFlame</damageDef>
-    		<damageAmountBase>3</damageAmountBase>
-    		<armorPenetrationSharp>0</armorPenetrationSharp>
-    		<armorPenetrationBlunt>0</armorPenetrationBlunt>
-    		<explosionRadius>1</explosionRadius>
-    		<preExplosionSpawnThingDef>FilthPrometheum</preExplosionSpawnThingDef>
-    		<preExplosionSpawnChance>0.15</preExplosionSpawnChance>
-    		<ai_IsIncendiary>true</ai_IsIncendiary>
-    	</projectile>
+    	<damageDef>PrometheumFlame</damageDef>
+    	<damageAmountBase>3</damageAmountBase>
+    	<armorPenetrationSharp>0</armorPenetrationSharp>
+    	<armorPenetrationBlunt>0</armorPenetrationBlunt>
+    	<explosionRadius>1</explosionRadius>
+    	<preExplosionSpawnThingDef>FilthPrometheum</preExplosionSpawnThingDef>
+    	<preExplosionSpawnChance>0.15</preExplosionSpawnChance>
+    	<ai_IsIncendiary>true</ai_IsIncendiary>
+    </projectile>
 	</ThingDef>
 
 	<ThingDef ParentName="Base18mmSmartBullet">
 		<defName>Bullet_18mmSmart_EMP</defName>
 		<label>18mm Smart rocket (EMP)</label>
 		<projectile Class="CombatExtended.ProjectilePropertiesCE">
-    		<damageDef>EMP</damageDef>
-    		<damageAmountBase>8</damageAmountBase>
-    		<explosionRadius>1</explosionRadius>
-    	</projectile>
+    	<damageDef>EMP</damageDef>
+    	<damageAmountBase>8</damageAmountBase>
+    	<explosionRadius>1</explosionRadius>
+    </projectile>
 	</ThingDef>
 
 	<!-- ==================== Recipes ========================== -->
