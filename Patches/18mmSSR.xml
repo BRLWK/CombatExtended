@@ -354,12 +354,12 @@
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
-    	    	<li>Steel</li>
-    	    	<li>Prometheum</li>
-    	    	<li>ComponentIndustrial</li>
+        <li>Steel</li>
+    	  <li>Prometheum</li>
+    	  <li>ComponentIndustrial</li>
 				<li>Uranium</li>
 				<li>Chemfuel</li>
-    		</thingDefs>
+    	 </thingDefs>
 		</fixedIngredientFilter>
 		<products>
 			<Ammo_18mmSmart_Sabot>200</Ammo_18mmSmart_Sabot>
@@ -408,11 +408,11 @@
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
-    	    	<li>Steel</li>
-    	    	<li>Prometheum</li>
-    	    	<li>ComponentIndustrial</li>
-				<li>FSX</li>
-    		</thingDefs>
+    	    <li>Steel</li>
+    	    <li>Prometheum</li>
+    	    <li>ComponentIndustrial</li>
+				  <li>FSX</li>
+    	</thingDefs>
 		</fixedIngredientFilter>
 		<products>
 			<Ammo_18mmSmart_HE>200</Ammo_18mmSmart_HE>
@@ -453,10 +453,10 @@
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
-    	    	<li>Steel</li>
-    	    	<li>Prometheum</li>
-    	    	<li>ComponentIndustrial</li>
-    		</thingDefs>
+    	    <li>Steel</li>
+    	    <li>Prometheum</li>
+    	    <li>ComponentIndustrial</li>
+    	</thingDefs>
 		</fixedIngredientFilter>
 		<products>
 			<Ammo_18mmSmart_Incendiary>200</Ammo_18mmSmart_Incendiary>
@@ -497,10 +497,10 @@
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
-    	    	<li>Steel</li>
-    	    	<li>Prometheum</li>
-    	    	<li>ComponentIndustrial</li>
-    		</thingDefs>
+    	    <li>Steel</li>
+    	    <li>Prometheum</li>
+    	    <li>ComponentIndustrial</li>
+    	</thingDefs>
 		</fixedIngredientFilter>
 		<products>
 			<Ammo_18mmSmart_EMP>200</Ammo_18mmSmart_EMP>
